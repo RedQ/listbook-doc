@@ -9,5 +9,13 @@
 * [Guternberg Blocks](guternberg-blocks.md)
   * Sections & Pages
 * Page Settings
-* Plugins
+* [Plugins](plugins.md)
+  * Listbook Helper
+  * Userplace
+  * Listbook algolia
+  * RedQ Reuse Form
+  * Load Google Map
+  * Userplace Openform
+  * Userplace Post Claim Listing & Report
+  * Userplace Rating & Review Plugin
 
