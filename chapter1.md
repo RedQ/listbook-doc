@@ -29,9 +29,9 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 
 **Solution: **You may check your file upload limit on Your Media Uploader page in WordPress. Depending upon the web hosting company and the conditions of the service they provide it may vary. The most common is about 8 MB which is more or less enough. But uploading some media files like audio and video may become a problem with for example 2 MB upload limit.
 
-We decided to share some tips about how to extend your maximum file upload size in WordPress:
+We decided to share some tips about how to extend your maximum file upload size in WordPress
 
-1. **Through functions.php file:**
+**Through functions.php file:**
 
 You may add the below mentioned code in the functions.php file of your theme
 
@@ -41,7 +41,7 @@ You may add the below mentioned code in the functions.php file of your theme
 @ini_set( 'max_execution_time', '300' );
 ```
 
-2.** Through PHP.INI file:**
+**Through PHP.INI file:**
 
 If you cannot see the php.ini file in your directory create the new one with below mentioned code and upload it to your root folder on your web server.
 
@@ -55,7 +55,7 @@ max_execution_time = 300
 
 In case that tip does not work with 64MB, try it with 10MB.
 
-3. **Through .htaccess method**
+**Through .htaccess method**
 
 You may try modifying the existing .htaccess file in the root directory or creating a new one.
 
