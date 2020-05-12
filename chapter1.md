@@ -41,7 +41,7 @@ You may add the below mentioned code in the functions.php file of your theme
 @ini_set( 'max_execution_time', '300' );
 ```
 
-  2.** Through PHP.INI file:**
+2.** Through PHP.INI file:**
 
 If you cannot see the php.ini file in your directory create the new one with below mentioned code and upload it to your root folder on your web server.
 
@@ -55,7 +55,7 @@ max_execution_time = 300
 
 In case that tip does not work with 64MB, try it with 10MB.
 
- 3. **Through .htaccess method**
+3. **Through .htaccess method**
 
 You may try modifying the existing .htaccess file in the root directory or creating a new one.
 
