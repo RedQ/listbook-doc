@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installation](chapter1.md)
-  * [Plugin Installation](chapter1/plugin-installation.md)
-  * Plugin Configuration
-  * Import Demo Content
+* [Installation](installation.md)
+  * [Plugin Installation](installation/plugin-installation.md)
+  * [Plugin Configuration](installation/plugin-configuration.md)
+  * [Import Demo Content](installation/import-demo-content.md)
 * [Theme Settings](plugin-installation.md)
 * [Guternberg Blocks](guternberg-blocks.md)
   * Sections & Pages
