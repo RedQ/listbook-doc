@@ -17,7 +17,8 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 ### Theme Installation
 
 1. Goto to **Appearance-&gt;Themes **in your **WordPress admin dashboard.**
-2. Click Add new at the top of the page.
+2. Click `Add new` at the top of the page.
+3. Click `Upload Theme` 
 
 ### Few common issues when installing the theme
 
