@@ -23,7 +23,7 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 
 **a. The “Broken theme and/or stylesheets missing” error is most common when you install or activate a new theme.**
 
-**Solution**: If you get an error saying that the stylesheet is missing, then you have uploaded the wrong folder. Please check that you are uploading the findus\_theme.zip within the Theme Files folder. You have to unzip the package file that you download from Themeforest to find this.
+**Solution**: If you get an error saying that the stylesheet is missing, then you have uploaded the wrong zip folder. Please check that you are uploading the listboo.zip. You have to unzip the package file that you download from Themeforest to find this.
 
 **b. Problems with uploading via WP admin panel due Upload limit.**
 
