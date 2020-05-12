@@ -8,4 +8,6 @@
 * [Theme Settings](plugin-installation.md)
 * [Guternberg Blocks](guternberg-blocks.md)
   * Sections & Pages
+* Plugins
+* Page Settings
 
