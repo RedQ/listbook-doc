@@ -18,4 +18,6 @@
   * Userplace Openform
   * Userplace Post Claim Listing & Report
   * Userplace Rating & Review Plugin
+  * Userplace Social Login
+  * Userplace Wishlist
 
