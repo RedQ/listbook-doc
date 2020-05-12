@@ -31,7 +31,7 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 
 We decided to share some tips about how to extend your maximum file upload size in WordPress
 
-**Through functions.php file:**
+* **Through functions.php file:**
 
 You may add the below mentioned code in the functions.php file of your theme
 
@@ -41,7 +41,7 @@ You may add the below mentioned code in the functions.php file of your theme
 @ini_set( 'max_execution_time', '300' );
 ```
 
-**Through PHP.INI file:**
+* **Through PHP.INI file:**
 
 If you cannot see the php.ini file in your directory create the new one with below mentioned code and upload it to your root folder on your web server.
 
@@ -55,7 +55,7 @@ max_execution_time = 300
 
 In case that tip does not work with 64MB, try it with 10MB.
 
-**Through .htaccess method**
+* **Through .htaccess method**
 
 You may try modifying the existing .htaccess file in the root directory or creating a new one.
 
