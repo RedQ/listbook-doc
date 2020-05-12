@@ -1,4 +1,4 @@
-# Configure Necessary Plugins Settings
+# Configure Necessary Plugin Settings
 
 
 
