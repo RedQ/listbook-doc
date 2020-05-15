@@ -12,9 +12,5 @@ To add a homepage layout to your page goto the Homepage tabs besides Sections ta
 
 > NB: To get the full homepage view you  might need to add few `Page Settings` and change `Page Attributes` to your page. Page settings will be discussed in  `Page Settings` chapter. You have to make the page full width from `Page Attributes` Check  below image
 
-![](/assets/page-sttributes.png)
-
-
-
-
+![](/assets/page-attributes.png)
 
