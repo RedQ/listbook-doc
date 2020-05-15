@@ -10,5 +10,17 @@ We have implemented login popup in multiple paces in our site. Any action that n
 
 ![](/assets/login-popup.png)
 
+To add login modal action to any button just add below action within html \`class\`.
 
+```
+do_action('listbook_auth_trigger');
+```
+
+An example of below code is given below
+
+```
+<button class="login-modal <?php do_action('listbook_auth_trigger') ?>">Login</button>
+```
+
+Now If you click on Login button then the login popup will appear.
 
