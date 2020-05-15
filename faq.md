@@ -18,7 +18,7 @@ To optimize your site you can use below two free plugin. You can also configure 
 
 You can use any other caching plugin.
 
-#### How can add a section to my page?
+#### How to add a section or predefined page layout to my page?
 
 Check the Gutenberg Blocks-&gt;Section & Homepages section in documentation.
 
