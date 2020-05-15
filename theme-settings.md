@@ -4,5 +4,15 @@ We have used kirki wordpress customizer framework to build our theme settings. Y
 
 ![](/assets/customiser.png)
 
-In customizer you will see below settings.
+In customizer you will see below settings menus
+
+![](/assets/settings-menus.png)
+
+Now click on the `Listbook Theme Panel` menu and you will get below settings
+
+![](/assets/theme-settings.png)
+
+Now If you click on the Header menu you will get below header settings to customize theme header
+
+
 
