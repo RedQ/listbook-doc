@@ -6,7 +6,8 @@
   * [Plugin Configuration](installation/plugin-configuration.md)
   * [Import Demo Content](installation/import-demo-content.md)
 * [Theme Settings](theme-settings.md)
-* Gutenberg Blocks
+* [Gutenberg Blocks](gutenberg-blocks.md)
+  * Sections & Homepages
 * Page Settings
 * Plugins
   * Listbook Helper
