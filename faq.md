@@ -8,3 +8,15 @@ To update theme first you have to download the latest version from ThemeForest. 
 
 In the theme package you should get a file named `listbook-child.zip`. Upload this zip as theme and activate it. Make sure you have already Listbook installed. Both child and main theme must have to be installed but child theme have to be activated.
 
+#### How to optimise my site?
+
+To optimize your site you can use below two free plugin. You can also configure CDN and for object caching you can also use redis if your server support it. 
+
+* [https://wordpress.org/plugins/wp-super-cache/](https://wordpress.org/plugins/wp-super-cache/)
+
+* [https://wordpress.org/plugins/autoptimize/](https://wordpress.org/plugins/autoptimize/)
+
+You can use any other caching plugin. 
+
+
+
