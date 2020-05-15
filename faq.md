@@ -32,3 +32,9 @@ From there you will get a field called Related Features. It is a multiple select
 
 ![](/assets/related-feature.png)
 
+#### After deactivating and reactivating the theme my site is broken nothing is showing properly. How to fix?
+
+make sure `Listbook Helper` and `Listbook Algolia` plugin is active. If not please activate these plugins. These to plugin got deactivated when listbook theme is not active. 
+
+
+
