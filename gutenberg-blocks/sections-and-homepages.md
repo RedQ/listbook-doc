@@ -8,5 +8,13 @@ To import a section to your page click on the `Listbook Layouts` button and it w
 
 ![](/assets/all-layouts.png)
 
-To add a homepage layout to your page goto the Homepage tabs besides Sections tab. Now Choose any of the three predefined homepages. 
+To add a homepage layout to your page goto the Homepage tabs besides Sections tab. Now Choose any of the three predefined homepages.
+
+> NB: To get the full homepage view you  might need to add few `Page Settings` and change `Page Attributes` to your page. Page settings will be discussed in  `Page Settings` chapter. You have to make the page full width from `Page Attributes` Check  below image
+
+![](/assets/page-sttributes.png)
+
+
+
+
 
