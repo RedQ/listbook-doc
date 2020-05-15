@@ -22,5 +22,13 @@ You can use any other caching plugin.
 
 Check the Gutenberg Blocks-&gt;Section & Homepages section in documentation.
 
+#### How to create category and feature relation?
+
+To create category and feature relation for listing submission page flexibility. First you have to goto `Listings->Category` menu and then click on edit in any category
+
+![](/assets/category-page.png)
+
+From there you will get a field called Related Features. It is a multiple selection selectbox. Select the related features for the specific category
+
 
 
