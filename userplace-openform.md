@@ -8,11 +8,9 @@ If you are a logged in user then you should get an `Add Listing` button in the t
 
 ![](/assets/add-listing-page.png)
 
-In this add listing page your user will be able to add listing from frontend. You can check there are bunch of form there to add the listing. 
+In this add listing page your user will be able to add listing from frontend. You can check there are bunch of form there to add the listing.
 
 You can check in the sidebar there is another menu `All Listing` which shows all the listings of the current user. Check below image
 
 ![](/assets/all-listing-page.png)
-
-
 
