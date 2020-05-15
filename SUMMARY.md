@@ -7,8 +7,8 @@
   * [Import Demo Content](installation/import-demo-content.md)
 * [Theme Settings](theme-settings.md)
 * [Gutenberg Blocks](gutenberg-blocks.md)
+  * [Block Customization](gutenberg-blocks/block-customization.md)
   * Sections & Homepages
-  * Block Customization
 * Page Settings
 * Plugins
   * Listbook Helper
