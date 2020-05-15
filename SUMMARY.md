@@ -20,4 +20,5 @@
   * [Userplace Rating & Review](userplace-rating-and-review-plugin.md)
   * [Userplace Social Login](userplace-social-login.md)
   * [Userplace Wishlist](userplace-wishlist.md)
+* [Child Theme](child-theme.md)
 
