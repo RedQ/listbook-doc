@@ -30,5 +30,5 @@ To create category and feature relation for listing submission page flexibility.
 
 From there you will get a field called Related Features. It is a multiple selection selectbox. Select the related features for the specific category
 
-
+![](/assets/related-feature.png)
 
