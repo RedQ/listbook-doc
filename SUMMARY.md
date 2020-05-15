@@ -8,6 +8,7 @@
 * [Theme Settings](theme-settings.md)
 * [Gutenberg Blocks](gutenberg-blocks.md)
   * Sections & Homepages
+  * Block Customization
 * Page Settings
 * Plugins
   * Listbook Helper
