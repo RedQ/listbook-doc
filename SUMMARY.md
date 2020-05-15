@@ -13,7 +13,7 @@
 * Plugins
   * [Listbook Helper](listbook-helper.md)
   * [Userplace](userplace.md)
-  * Listbook algolia
+  * [Listbook algolia](listbook-algolia.md)
   * RedQ Reuse Form
   * Load Google Map
   * Userplace Openform
