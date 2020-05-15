@@ -42,7 +42,13 @@ Make sure you have configured your algolia settings and sync all data. Check `Pl
 
 #### Why Google map auto complete not working?
 
-Make sure you have configured google map api keys and in your google map account billing is enabled. Check `Plugins->Google Map` chapter in documentation. 
+Make sure you have configured google map api keys and in your google map account billing is enabled. Check `Plugins->Google Map` chapter in documentation.
+
+####  Why clicking on location/category/banner search doing nothing?
+
+Make sure you have selected the explore page in the `Listbook Settings`. Check below image
+
+![](/assets/explore-page-settings.png)
 
 
 
