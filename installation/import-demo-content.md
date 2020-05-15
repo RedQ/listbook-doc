@@ -1,4 +1,16 @@
 # Import Demo Data
 
+Before importing demo data make sure you have completed the above two steps. At least install all the plugins and configure `Google Map` plugin. If you have completed the above two steps you will now be able to import demo content. Without installating all the the demo import button would be disabled.
+
+First go to the `Listbook` Dashboard menu. You will see some like below images. If you have completed the above two steps then you should be able to click on the `Import Demo Data` button.
+
+![](/assets/import-demo-content.png)
+
+After clicking on the demo data button you will be redirected to the below page. Click `Import Demo Data` button there and it will start importing demo data. Wait for few minutes. It might take time 1-5 minutes depending on your internet speed.
+
+![](/assets/importing-page.png) 
+
+When the demo data import is completed you will get a message like below. 
+
 
 
