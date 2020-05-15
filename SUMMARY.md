@@ -14,9 +14,7 @@
   * [Listbook Helper](listbook-helper.md)
   * [Userplace](userplace.md)
   * [Listbook algolia](listbook-algolia.md)
-  * RedQ Reuse Form
-  * Load Google Map
-  * Userplace Openform
+  * [Userplace Openform](userplace-openform.md)
   * Userplace Post Claim Listing & Report
   * Userplace Post Claim Listing & Report
   * Userplace Rating & Review Plugin
