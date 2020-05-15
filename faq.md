@@ -10,13 +10,17 @@ In the theme package you should get a file named `listbook-child.zip`. Upload th
 
 #### How to optimise my site?
 
-To optimize your site you can use below two free plugin. You can also configure CDN and for object caching you can also use redis if your server support it. 
+To optimize your site you can use below two free plugin. You can also configure CDN and for object caching you can also use redis if your server support it.
 
 * [https://wordpress.org/plugins/wp-super-cache/](https://wordpress.org/plugins/wp-super-cache/)
 
 * [https://wordpress.org/plugins/autoptimize/](https://wordpress.org/plugins/autoptimize/)
 
-You can use any other caching plugin. 
+You can use any other caching plugin.
+
+#### How can add a section to my page?
+
+Check the Gutenberg Blocks-&gt;Section & Homepages section in documentation.
 
 
 
