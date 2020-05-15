@@ -10,3 +10,5 @@ Now suppose if you want to turn off the page banner then goto Banner tab and cha
 
 ![](/assets/page-banner-settings.png)
 
+After going to the `Banner` tab change the Select Option from `Global` to `Local` then turn `Page Banner` off from next settings. Follow the arrow sign.
+
