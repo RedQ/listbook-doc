@@ -13,5 +13,7 @@ Now for syncing all data to algolia you have to press the `Sync All` button the 
 
 In the page you will see below section
 
+![](/assets/sync-all-button.png)When the sync is done you will get an admin notice like below image in the page top
 
+![](/assets/sync-done.png)
 
