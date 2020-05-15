@@ -6,7 +6,7 @@ This plugins is also a extension of Userplace. The purpose of this plugin is to 
 
 > #### **NB: Owner of the post won't see the Claim Listing button. **
 
-#### After clicking the `Claim Listing` button user will be redirected to the below page. From there user can post his/her query to the admin and admin will take care of the rest.
+After clicking the `Claim Listing` button user will be redirected to the below page. From there user can post his/her query to the admin and admin will take care of the rest.
 
 ![](/assets/send-claim-message.png)
 
