@@ -74,3 +74,7 @@ php_value max_input_time 300
 
 
 
+If you still face any issues please don't forget to open a ticket in our ticket forum
+
+[https://redqsupport.ticksy.com/](https://redqsupport.ticksy.com/)
+
