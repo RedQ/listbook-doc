@@ -7,5 +7,5 @@ Listbook Helper is the main helper plugin for the theme. In this plugin below ta
 3. Creating all the blocks
 4. Creating the page settings. 
 
-To add/edit the listing for admin you will get a `Listings` menu in the admin Dashboard. From there you can add `listing` and `taxonomies`.
+To add/edit the listing for admin you will get a `Listings` menu in the admin Dashboard. From there you can add `listing` and `taxonomies`. Its pretty simple basic wordpress things. So we are not discussing it in details here. 
 
