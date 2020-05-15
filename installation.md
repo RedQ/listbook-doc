@@ -21,6 +21,8 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 3. Click `Upload Theme` 
 4. Choose `listbook.zip` and click `Install Now`
 
+For better understanding the installation process please follow the below video url
+
 ### Few common issues when installing the theme
 
 **a. The “Broken theme and/or stylesheets missing” error is most common when you install or activate a new theme.**
