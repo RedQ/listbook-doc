@@ -14,5 +14,5 @@ Now click on the `Listbook Theme Panel` menu and you will get below settings
 
 Now If you click on the Header menu you will get below header settings to customize theme header
 
-
+![](/assets/theme-header-settings.png)
 
