@@ -11,7 +11,7 @@
   * [Block Customization](gutenberg-blocks/block-customization.md)
   * [Sections & Homepages](gutenberg-blocks/sections-and-homepages.md)
 * [Page Settings](page-settings.md)
-* Plugins
+* [Plugins](plugins.md)
   * [Listbook Helper](listbook-helper.md)
   * [Userplace](userplace.md)
   * [Listbook algolia](listbook-algolia.md)
