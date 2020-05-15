@@ -11,8 +11,8 @@
   * [Sections & Homepages](gutenberg-blocks/sections-and-homepages.md)
 * [Page Settings](page-settings.md)
 * Plugins
-  * Listbook Helper
-  * Userplace
+  * [Listbook Helper](listbook-helper.md)
+  * [Userplace](userplace.md)
   * Listbook algolia
   * RedQ Reuse Form
   * Load Google Map

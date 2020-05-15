@@ -12,5 +12,11 @@ After clicking on the demo data button you will be redirected to the below page.
 
 When the demo data import is completed you will get a message like below.
 
-![](/assets/complete-demo-import.png)Now goto your sites frontend and you will see all data has been imported and your site is ready. 
+![](/assets/complete-demo-import.png)Now goto your sites frontend and you will see all data has been imported and your site is ready.
+
+
+
+> **NB: If you didn't configure Algolia before importing demo then you have to do a very small task. You will get the details in `Plugins/Listbook Algolia` chanpter. If you don't follow this steps properly then your explore page will not work properly. **
+
+
 
