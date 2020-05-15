@@ -21,4 +21,5 @@
   * [Userplace Social Login](userplace-social-login.md)
   * [Userplace Wishlist](userplace-wishlist.md)
 * [Child Theme](child-theme.md)
+* [FAQ](faq.md)
 
