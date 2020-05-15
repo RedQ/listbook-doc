@@ -40,5 +40,9 @@ make sure `Listbook Helper` and `Listbook Algolia` plugin is active. If not plea
 
 Make sure you have configured your algolia settings and sync all data. Check `Plugin->Listbook Algolia` chapter in documentation.
 
+#### Why Google map auto complete not working?
+
+Make sure you have configured google map api keys and in your google map account billing is enabled. Check `Plugins->Google Map` chapter in documentation. 
+
 
 
