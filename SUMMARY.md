@@ -19,5 +19,5 @@
   * [Userplace Post Claim Listing & Report](userplace-post-claim-listing-and-report.md)
   * [Userplace Rating & Review Plugin](userplace-rating-and-review-plugin.md)
   * [Userplace Social Login](userplace-social-login.md)
-  * Userplace Wishlist
+  * [Userplace Wishlist](userplace-wishlist.md)
 
