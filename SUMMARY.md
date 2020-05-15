@@ -16,7 +16,7 @@
   * [Userplace](userplace.md)
   * [Listbook algolia](listbook-algolia.md)
   * [Userplace Openform](userplace-openform.md)
-  * Userplace Post Claim Listing & Report
+  * [Userplace Post Claim Listing & Report](userplace-post-claim-listing-and-report.md)
   * Userplace Post Claim Listing & Report
   * Userplace Rating & Review Plugin
   * Userplace Social Login
