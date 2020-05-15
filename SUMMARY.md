@@ -9,7 +9,7 @@
 * [Gutenberg Blocks](gutenberg-blocks.md)
   * [Block Customization](gutenberg-blocks/block-customization.md)
   * [Sections & Homepages](gutenberg-blocks/sections-and-homepages.md)
-* Page Settings
+* [Page Settings](page-settings.md)
 * Plugins
   * Listbook Helper
   * Userplace
