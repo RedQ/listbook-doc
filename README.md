@@ -22,8 +22,7 @@ Listbook is a listing directory wordpress theme focusing on the user experience 
   * [Userplace Social Login](https://github.com/RedQ/listbook-doc/blob/master/userplace-social-login.md)
   * [Userplace Wishlist](https://github.com/RedQ/listbook-doc/blob/master/userplace-wishlist.md)
 * [Child Theme](https://github.com/RedQ/listbook-doc/blob/master/child-theme.md)
-
-
+* [FAQ](https://github.com/RedQ/listbook-doc/blob/master/faq.md)
 
 
 
