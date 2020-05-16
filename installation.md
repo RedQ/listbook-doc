@@ -21,7 +21,7 @@ Purchase Listbook theme and download the packages from themeforest. Unzip the pa
 3. Click `Upload Theme` 
 4. Choose `listbook.zip` and click `Install Now`
 
-For better understanding the installation process please follow the below video url
+> #### **For better understanding the installation process please follow the below video url **[**Getting Started**](https://www.youtube.com/watch?v=ZNA9rmDsYVE&feature=youtu.be)
 
 ### Few common issues when installing the theme
 
@@ -71,8 +71,6 @@ php_value post_max_size 64M
 php_value max_execution_time 300
 php_value max_input_time 300
 ```
-
-
 
 If you still face any issues please don't forget to open a ticket in our ticket forum
 
