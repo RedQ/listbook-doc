@@ -26,7 +26,7 @@ Check the Gutenberg Blocks-&gt;Section & Homepages section in documentation.
 
 To create category and feature relation for listing submission page flexibility. First you have to goto `Listings->Category` menu and then click on edit in any category
 
-![](/assets/category-page.png)
+
 
 From there you will get a field called Related Features. It is a multiple selection selectbox. Select the related features for the specific category
 
@@ -44,11 +44,9 @@ Make sure you have configured your algolia settings and sync all data. Check `Pl
 
 Make sure you have configured google map api keys and in your google map account billing is enabled. Check `Plugins->Google Map` chapter in documentation.
 
-####  Why clicking on location/category/banner search doing nothing?
+#### Why clicking on location/category/banner search doing nothing?
 
 Make sure you have selected the explore page in the `Listbook Settings`. Check below image
 
 ![](/assets/explore-page-settings.png)
-
-
 
