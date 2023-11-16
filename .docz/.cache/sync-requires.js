@@ -1,0 +1,58 @@
+const { hot } = require("react-hot-loader/root")
+
+// prefer default export if available
+const preferDefault = m => (m && m.default) || m
+
+
+exports.components = {
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/.docz/.cache/dev-404-page.js"))),
+  "component---old-child-theme-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/child-theme.md"))),
+  "component---old-faq-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/faq.md"))),
+  "component---old-gutenberg-blocks-block-customization-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/gutenberg-blocks/block-customization.md"))),
+  "component---old-gutenberg-blocks-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/gutenberg-blocks.md"))),
+  "component---old-gutenberg-blocks-sections-and-homepages-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/gutenberg-blocks/sections-and-homepages.md"))),
+  "component---old-guternberg-blocks-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/guternberg-blocks.md"))),
+  "component---old-guternberg-blocks-page-settings-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/guternberg-blocks/page-settings.md"))),
+  "component---old-installation-import-demo-content-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/installation/import-demo-content.md"))),
+  "component---old-installation-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/installation.md"))),
+  "component---old-installation-permalink-setup-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/installation/permalink-setup.md"))),
+  "component---old-installation-plugin-configuration-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/installation/plugin-configuration.md"))),
+  "component---old-installation-plugin-installation-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/installation/plugin-installation.md"))),
+  "component---old-listbook-algolia-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/listbook-algolia.md"))),
+  "component---old-listbook-helper-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/listbook-helper.md"))),
+  "component---old-load-google-map-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/load-google-map.md"))),
+  "component---old-page-settings-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/page-settings.md"))),
+  "component---old-plugin-installation-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/plugin-installation.md"))),
+  "component---old-plugins-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/plugins.md"))),
+  "component---old-readme-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/README.md"))),
+  "component---old-redq-reuse-form-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/redq-reuse-form.md"))),
+  "component---old-sections-and-homepages-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/sections-and-homepages.md"))),
+  "component---old-summary-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/SUMMARY.md"))),
+  "component---old-test-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/test.md"))),
+  "component---old-theme-settings-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/theme-settings.md"))),
+  "component---old-userplace-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace.md"))),
+  "component---old-userplace-openform-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace-openform.md"))),
+  "component---old-userplace-post-claim-listing-and-report-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace-post-claim-listing-and-report.md"))),
+  "component---old-userplace-rating-and-review-plugin-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace-rating-and-review-plugin.md"))),
+  "component---old-userplace-social-login-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace-social-login.md"))),
+  "component---old-userplace-wishlist-md": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/old/userplace-wishlist.md"))),
+  "component---src-changelog-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/changelog.mdx"))),
+  "component---src-extra-fields-checkbox-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/checkbox-field.mdx"))),
+  "component---src-extra-fields-color-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/color-field.mdx"))),
+  "component---src-extra-fields-date-time-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/date-time-field.mdx"))),
+  "component---src-extra-fields-multi-select-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/multi-select-field.mdx"))),
+  "component---src-extra-fields-number-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/number-field.mdx"))),
+  "component---src-extra-fields-radio-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/radio-field.mdx"))),
+  "component---src-extra-fields-select-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/select-field.mdx"))),
+  "component---src-extra-fields-text-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/text-field.mdx"))),
+  "component---src-extra-fields-textarea-field-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/extra-fields/textarea-field.mdx"))),
+  "component---src-faq-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/faq.mdx"))),
+  "component---src-features-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/features.mdx"))),
+  "component---src-index-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/index.mdx"))),
+  "component---src-installation-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/Installation.mdx"))),
+  "component---src-pages-404-js": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/.docz/src/pages/404.js"))),
+  "component---src-step-by-step-discussion-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/step-by-step-discussion.mdx"))),
+  "component---src-support-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/support.mdx"))),
+  "component---src-upgrade-mdx": hot(preferDefault(require("/Users/mdnayeemfarid/Local Sites/listbook/app/public/wp-content/plugins/listbook-doc/src/upgrade.mdx")))
+}
+
