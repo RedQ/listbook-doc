@@ -1,4 +1,0 @@
-# Theme Global Settings
-
-
-
